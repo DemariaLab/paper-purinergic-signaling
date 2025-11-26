@@ -13,7 +13,7 @@ R analysis scripts: this repository.
 qPCR data: this repository.
 
 ## Notes
-- File and urls for data will be added once the paper is accepted.
+- Files and urls for data will be added once the paper is accepted.
 - The repository will be updated to include final file structure, documentation, and usage instructions upon publication.
 - Any updates to data availability will be reflected here.
 
